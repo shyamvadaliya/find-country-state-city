@@ -1,0 +1,24 @@
+{
+  "name": "get-country-state-city-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyamvadaliya/get-country-state-city-list.git"
+  },
+  "keywords": [
+    "country",
+    "state",
+    "city"
+  ],
+  "author": "shyamvadaliya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shyamvadaliya/get-country-state-city-list/issues"
+  },
+  "homepage": "https://github.com/shyamvadaliya/get-country-state-city-list#readme"
+}
