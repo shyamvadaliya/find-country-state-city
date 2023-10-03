@@ -1,7 +1,7 @@
 ## Install
 
 ```
-$ npm install download
+$ npm install find-country-state-city
 ```
 
 ## Usage
