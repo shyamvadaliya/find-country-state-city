@@ -11,9 +11,12 @@
     "url": "git+https://github.com/shyamvadaliya/find-country-state-city.git"
   },
   "keywords": [
-    "country",
-    "state",
-    "city"
+    "Country",
+    "State",
+    "City",
+    "GeoLocation",
+    "Search",
+    "Filter"
   ],
   "author": "shyamvadaliya",
   "license": "MIT",
