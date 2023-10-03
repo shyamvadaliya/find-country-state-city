@@ -1,6 +1,7 @@
 "use strict";
 
-const countryJSON = require('./country.json');
+const countryJSON = require('./assets/country.json');
+const stateJSON = require('./assets/state.json');
 function getCountry(name) {
     if (!name) {
         return countryJSON;
@@ -13,12 +14,12 @@ function getCountry(name) {
 }
 
 
-function getState(name) {
-    if (!name) {
-        return countryJSON;
+function getState(code) {
+    if (!code) {
+        return stateJSON;
     } else {
-        let newArray = countryJSON.filter(function (el) {
-            return el.name.toLocaleLowerCase() === name.toLocaleLowerCase()
+        let newArray = stateJSON.filter(function (el) {
+            return el.countryCode.toLocaleLowerCase() === code.toLocaleLowerCase()
         });
         return newArray;
     }
