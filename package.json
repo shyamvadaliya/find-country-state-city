@@ -1,5 +1,5 @@
 {
-  "name": "get-country-state-city-list",
+  "name": "find-country-state-city",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shyamvadaliya/get-country-state-city-list.git"
+    "url": "git+https://github.com/shyamvadaliya/find-country-state-city.git"
   },
   "keywords": [
     "country",
@@ -18,7 +18,7 @@
   "author": "shyamvadaliya",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shyamvadaliya/get-country-state-city-list/issues"
+    "url": "https://github.com/shyamvadaliya/find-country-state-city/issues"
   },
-  "homepage": "https://github.com/shyamvadaliya/get-country-state-city-list#readme"
+  "homepage": "https://github.com/shyamvadaliya/find-country-state-city#readme"
 }
