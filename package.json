@@ -1,7 +1,7 @@
 {
   "name": "find-country-state-city",
-  "version": "2.0.0",
-  "description": "",
+  "version": "2.0.1",
+  "description": "Find countries, states, and their cities",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
